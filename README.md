@@ -34,7 +34,7 @@
 - **[5G-Simulator (2016)](https://github.com/PastelDew/5G-Simulator)** - NS-3 기반 5G 시뮬레이션
 - **JEngine (2014)** - Java/OpenGL ES 기반 Android 게임 엔진
 - **Chess (2014)** - C++/Win32 체스 게임
-- **Tetris (2012)** - C#/WinForms 테트리스
+- **[Tetris (2012)](https://github.com/PastelDew/Tetris)** - C#/WinForms 테트리스
 
 ## 🎓 Education
 
