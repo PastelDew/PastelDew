@@ -39,7 +39,7 @@
 ## 🎓 Education
 
 > **M.S** in Computer Engineering (AI/Computer Vision) <br/>
-> **B.S** in Computer Science
+> **B.S** in Computer Engineering
 
 ## 📄 Portfolio
 
