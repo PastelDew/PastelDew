@@ -43,7 +43,7 @@
 
 ## 📄 Portfolio
 
-[![Portfolio (2022)](https://img.shields.io/badge/Portfolio_(2022)-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/PastelDew/assets/blob/main/Portfolio_2022.pdf)
+[![Portfolio (2022)](https://img.shields.io/badge/Portfolio_(2022)-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/PastelDew/PastelDew/blob/main/assets/blob/main/portfolio_2022.pdf)
 
 ## 📫 Contact
 
